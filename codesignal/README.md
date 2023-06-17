@@ -11,5 +11,7 @@
 
 ## The Core
 
+* [Max Multiple](maxMultiple/)
 * [Circle of Numbers](circleOfNumbers/)
+* [Late Ride](lateRide/)
 * [Phone Call](phoneCall/)
