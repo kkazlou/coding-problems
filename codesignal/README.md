@@ -15,3 +15,5 @@
 * [Circle of Numbers](circleOfNumbers/)
 * [Late Ride](lateRide/)
 * [Phone Call](phoneCall/)
+* [Reach Next Level](reachNextLevel/)
+* [Knapsack Light](knapsackLight/)
