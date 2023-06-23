@@ -11,6 +11,7 @@
 
 ## The Core
 
+* [Candies](candies)
 * [Seats in Theater](seatsInTheater)
 * [Max Multiple](maxMultiple/)
 * [Circle of Numbers](circleOfNumbers/)
