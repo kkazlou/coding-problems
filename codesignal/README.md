@@ -11,13 +11,14 @@
 
 ## The Core
 
-1. [Add Two Digits](addTwoDigits)
-1. [Largest Number](largestNumber)
-1. [Candies](candies)
-1. [Seats in Theater](seatsInTheater)
+1. [Add Two Digits](addTwoDigits/)
+1. [Largest Number](largestNumber/)
+1. [Candies](candies/)
+1. [Seats in Theater](seatsInTheater/)
 1. [Max Multiple](maxMultiple/)
 1. [Circle of Numbers](circleOfNumbers/)
 1. [Late Ride](lateRide/)
 1. [Phone Call](phoneCall/)
 1. [Reach Next Level](reachNextLevel/)
 1. [Knapsack Light](knapsackLight/)
+1. [Extra Number](extraNumber/)
