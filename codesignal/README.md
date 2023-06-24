@@ -22,3 +22,4 @@
 1. [Reach Next Level](reachNextLevel/)
 1. [Knapsack Light](knapsackLight/)
 1. [Extra Number](extraNumber/)
+1. [Is Infinite Process?](isInfiniteProcess/)
