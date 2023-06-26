@@ -1,5 +1,4 @@
-import pytest
-from maxMultiple import *
+from maxMultiple import solution
 
 def test_maxMultiple():
     assert solution(3, 10) == 9

@@ -1,5 +1,4 @@
-import pytest
-from extraNumber import *
+from extraNumber import solution
 
 def test_extraNumber():
     assert solution(2, 7, 2) == 7

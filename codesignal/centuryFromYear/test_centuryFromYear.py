@@ -1,5 +1,4 @@
-import pytest
-from centuryFromYear import *
+from centuryFromYear import solution
 
 def test_centuryFromYear():
     assert solution(1905) == 20

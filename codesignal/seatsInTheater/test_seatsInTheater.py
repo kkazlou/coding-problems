@@ -1,5 +1,4 @@
-import pytest
-from seatsInTheater import *
+from seatsInTheater import solution
 
 def test_seatsInTheater():
     assert solution(16, 11, 5, 3) == 96

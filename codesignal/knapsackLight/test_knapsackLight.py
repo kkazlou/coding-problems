@@ -1,5 +1,4 @@
-import pytest
-from knapsackLight import *
+from knapsackLight import solution
 
 def test_knapsackLight():
     assert solution(10, 5, 6, 4, 8) == 10

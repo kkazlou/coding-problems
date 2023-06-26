@@ -1,5 +1,4 @@
-import pytest
-from lateRide import *
+from lateRide import solution
 
 def test_lateRide():
     assert solution(240) == 4

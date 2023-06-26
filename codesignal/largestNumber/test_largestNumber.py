@@ -1,5 +1,4 @@
-import pytest
-from largestNumber import *
+from largestNumber import solution
 
 def test_largestNumber():
     assert solution(2) == 99

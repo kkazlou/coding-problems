@@ -1,5 +1,4 @@
-import pytest
-from candies import *
+from candies import solution
 
 def test_candies():
     assert solution(3, 10) == 9

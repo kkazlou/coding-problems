@@ -1,5 +1,4 @@
-import pytest
-from phoneCall import *
+from phoneCall import solution
 
 def test_centuryFromYear():
     assert solution(3, 1, 2, 20) == 14

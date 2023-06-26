@@ -1,5 +1,4 @@
-import pytest
-from add import *
+from add import solution
 
 def test_add():
     assert solution(1,2) == 3

@@ -1,5 +1,4 @@
-import pytest
-from addTwoDigits import *
+from addTwoDigits import solution
 
 def test_addTwoDigits():
     assert solution(29) == 11

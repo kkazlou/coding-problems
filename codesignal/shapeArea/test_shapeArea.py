@@ -1,5 +1,4 @@
-import pytest
-from shapeArea import *
+from shapeArea import solution
 
 def test_shapeArea():
     assert solution(2) == 5

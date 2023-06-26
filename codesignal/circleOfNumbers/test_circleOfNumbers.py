@@ -1,5 +1,4 @@
-import pytest
-from circleOfNumbers import *
+from circleOfNumbers import solution
 
 def test_circleOfNumbers():
     assert solution(10, 2) == 7

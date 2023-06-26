@@ -1,9 +1,8 @@
-import pytest
-from checkPalindrome import *
+from checkPalindrome import solution
 
 def test_checkPalindrome():
-    assert solution("aabaa") == True
-    assert solution("abac") == False
-    assert solution("a") == True
-    assert solution("abacaba") == True
-    assert solution("hello") == False
+    assert solution("aabaa") is True
+    assert solution("abac") is False
+    assert solution("a") is True
+    assert solution("abacaba") is True
+    assert solution("hello") is False

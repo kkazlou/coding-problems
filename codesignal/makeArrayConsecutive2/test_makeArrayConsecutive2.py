@@ -1,5 +1,4 @@
-import pytest
-from makeArrayConsecutive2 import *
+from makeArrayConsecutive2 import solution
 
 def test_makeArrayConsecutive2():
     assert solution([6, 2, 3, 8]) == 3
