@@ -23,3 +23,4 @@
 1. [Knapsack Light](knapsackLight/)
 1. [Extra Number](extraNumber/)
 1. [Is Infinite Process?](isInfiniteProcess/)
+1. [Arithmetic Expression](arithmeticExpression/)
