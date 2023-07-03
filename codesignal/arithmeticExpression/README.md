@@ -23,4 +23,5 @@ We can replace `#` with a `/` to obtain `8 / 2 = 4`, so the answer is `true`.
 
 So the answer is `false`.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/QrCSNQWhnQoaK9KgK)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/QrCSNQWhnQoaK9KgK)

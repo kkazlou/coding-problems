@@ -9,4 +9,5 @@ Example
 * For `experience = 10`, `threshold = 15`, and `reward = 5`, the output should be `solution(experience, threshold, reward) = true`;
 * For `experience = 10`, `threshold = 15`, and `reward = 4`, the output should be `solution(experience, threshold, reward) = false`.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/m9wjpkCjgofg7gs8N)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/m9wjpkCjgofg7gs8N)

@@ -18,4 +18,5 @@ You're strong enough to take both of the items with you.
 
 You can't take both items, but you can take any of them.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/r9azLYp2BDZPyzaG2)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/r9azLYp2BDZPyzaG2)

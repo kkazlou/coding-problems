@@ -7,4 +7,5 @@ Example
 * For `year = 1905`, the output should be `solution(year) = 20`;
 * For `year = 1700`, the output should be `solution(year) = 17`.
 
-[Link to problem](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN)

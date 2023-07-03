@@ -8,4 +8,5 @@ For `inputArray = [3, 6, -2, -5, 7, 3]`, the output should be `solution(inputArr
 
 `7` and `3` produce the largest product.
 
-[Link to problem](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m)

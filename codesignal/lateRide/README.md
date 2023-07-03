@@ -16,4 +16,5 @@ Since `240` minutes have passed, the current time is `04:00`. The digits sum up 
 
 `808` minutes mean that it's `13:28` now, so the answer should be `1 + 3 + 2 + 8 = 14`.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/intro-gates/aiKck9MwwAKyF8D4L)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/intro-gates/aiKck9MwwAKyF8D4L)

@@ -19,4 +19,5 @@ For `young = true`, `beautiful = false`, and `loved = true`, the output should b
 
 Mary doesn't believe that not beautiful people can be loved.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/jZ4ZSiGohzFTeg4yb)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/jZ4ZSiGohzFTeg4yb)

@@ -10,4 +10,5 @@ For `n = 10` and `firstNumber = 2`, the output should be `solution(n, firstNumbe
 
 ![example](example.png)
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/intro-gates/vExYvcGnFsEYSt8nQ)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/intro-gates/vExYvcGnFsEYSt8nQ)

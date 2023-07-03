@@ -8,4 +8,5 @@ For `statues = [6, 2, 3, 8]`, the output should be `solution(statues) = 3`.
 
 Ratiorg needs statues of sizes `4`, `5` and `7`.
 
-[Link to problem](https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC)

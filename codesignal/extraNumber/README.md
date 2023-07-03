@@ -8,4 +8,5 @@ For `a = 2`, `b = 7`, and `c = 2`, the output should be `solution(a, b, c) = 7`.
 
 The two equal numbers are `a` and `c`. The third number (`b`) equals `7`, which is the answer.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/sgDWKCFQHHi5D3Szj)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/sgDWKCFQHHi5D3Szj)

@@ -18,4 +18,5 @@ Since both players won at least `5` games, the set would've ended once one of th
 
 This set will continue until one of these players wins their `7th` game, so this can't be the final score.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/7jaup9HprdJno2diw)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/7jaup9HprdJno2diw)

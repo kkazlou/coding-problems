@@ -15,4 +15,5 @@ Example
 * For `a = 2` and `b = 6`, the output should be `solution(a, b) = false`;
 * For `a = 2` and `b = 3`, the output should be `solution(a, b) = true`.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/aFF9HDm2Rsti9j5kc)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads/aFF9HDm2Rsti9j5kc)

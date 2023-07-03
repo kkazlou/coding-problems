@@ -11,4 +11,5 @@ Example
 * For `n = 2`, the output should be `solution(n) = 5`;
 * For `n = 3`, the output should be `solution(n) = 13`.
 
-[Link to problem](https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ)

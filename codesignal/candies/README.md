@@ -8,4 +8,5 @@ For `n = 3` and `m = 10`, the output should be `solution(n, m) = 9`.
 
 Each child will eat `3` pieces. So the answer is `9`.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/intro-gates/DdNKFA3XCX6XN7bNz)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/intro-gates/DdNKFA3XCX6XN7bNz)

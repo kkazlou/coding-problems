@@ -20,4 +20,5 @@ Here's why:
 
 Thus, the longest call you can make is `1 + 9 + 4 = 14` minutes long.
 
-[Link to problem](https://app.codesignal.com/arcade/code-arcade/intro-gates/mZAucMXhNMmT7JWta)
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/intro-gates/mZAucMXhNMmT7JWta)
