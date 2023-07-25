@@ -8,6 +8,7 @@
 1. [adjacentElementsProduct](adjacentElementsProduct/)
 1. [shapeArea](shapeArea/)
 1. [Make Array Consecutive 2](makeArrayConsecutive2/)
+1. [almostIncreasingSequence](almostIncreasingSequence/)
 
 ## The Core
 
