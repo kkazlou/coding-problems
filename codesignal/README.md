@@ -29,3 +29,4 @@
 1. [Will you?](willYou/)
 1. [Metro Card](metroCard/)
 1. [Kill K-th Bit](killBit/)
+1. [Array Packing](arrayPacking/)
