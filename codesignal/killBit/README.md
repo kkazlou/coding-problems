@@ -15,3 +15,6 @@ Example
 * For `n = 37` and `k = 4`, the output should be `solution(n, k) = 37`.
 
 The `4-th` bit is `0` already (looks like the Mad Coder forgot to encrypt this number), so the answer is still `37`.
+
+## References
+* [CodeSignal.com](https://app.codesignal.com/arcade/code-arcade/corner-of-0s-and-1s/b5z4P2r2CGCtf8HCR)
